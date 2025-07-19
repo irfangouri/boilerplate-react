@@ -1,2 +1,2 @@
-# boilerplate-react
-Complete Codebase for Boilerplate architecture for React.js in Typescript
+# React + TypeScript
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
